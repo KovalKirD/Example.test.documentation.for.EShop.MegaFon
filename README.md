@@ -1,5 +1,5 @@
-# Test.documentation.for.IM.MF
-## Тестовая документация для Интернет-Магазина Мегафон
+# Example.test.documentation.for.IM.MF
+##  Пример тестовой документация для Интернет-Магазина Мегафон
 
 Ресурс: https://moscow.shop.megafon.ru/
 
